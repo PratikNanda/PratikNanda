@@ -41,7 +41,7 @@ Python | SQL | PostgreSQL | Power BI
 
 An end-to-end analytics project analyzing 3,900+ shopping transactions to uncover customer behavior, revenue drivers, discount dependency, and loyalty patterns.
 
-👉 View Project Repository: (add link)
+👉 View Project Repository: https://github.com/PratikNanda/Customer_Behavior_Analysis
 
 ---
 
